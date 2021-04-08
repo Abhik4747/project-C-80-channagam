@@ -1,0 +1,30 @@
+body{
+    font-family: 'Cookie', cursive;
+    background: url("https://cdn.wallpapersafari.com/17/2/GcLDFx.jpg");
+    background-position: center;
+    background-size: cover;
+    font-size: 25px;
+}
+.heading{
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 40px;
+    color: cyan;
+}
+.left{
+    float: left;
+    margin-left: 50px;
+}
+.right{
+    float: right;
+    margin-right: 50px;
+}
+.left h4{
+    font-weight: bold;
+    color: firebrick;
+}
+.right h4{
+    font-weight: bold;
+    color: firebrick;
+}
+
+
